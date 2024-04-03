@@ -1,0 +1,2 @@
+1.[Managed_Node]
+2.192.168.56.103 ansible_ssh_user=gagan ansible_ssh_pass=chandu
